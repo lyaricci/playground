@@ -20,7 +20,7 @@ CHANGE_BTN.addEventListener("click", changeColor);
 // USAR O 'ENTER' PRA MUDAR A COR
 
 const changeWithEnter = (e) => {
-	if (e.keyCode === 13) {
+	if (e.code === "Enter") {
 		changeColor();
 	}
 };
