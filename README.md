@@ -12,7 +12,7 @@ Neste exercício, o usuário pode mudar a cor do quadrado escrevendo seu nome em
 
 📁 [Código](https://github.com/nathalya-ricci/playground/tree/main/escolha-a-cor)
 
-🔗 [Live preview](https://nathalya-ricci.github.io/playground/escolha-a-cor/)
+🔗 [Live preview](https://lyaricci.github.io/playground/escolha-a-cor/)
 
 ### Pedra, papel e tesoura
 
@@ -22,6 +22,6 @@ Há, também, uma função para jogar um round e checar o vencedor da rodada. A 
 
 🛠 Techs utilizadas: Python
 
-📁 [Código](https://github.com/nathalya-ricci/playground/tree/main/rock-paper-scissors-python)
+📁 [Código](https://github.com/lyaricci/playground/tree/main/rock-paper-scissors-python)
 
-🕹 O jogo é jogado no terminal. Para jogar, baixe o arquivo [main.py](https://github.com/nathalya-ricci/playground/blob/main/rock-paper-scissors-python/main.py) (necessário ter Python instalado).
+🕹 O jogo é jogado no terminal. Para jogar, baixe o arquivo [main.py](https://github.com/lyaricci/playground/blob/main/rock-paper-scissors-python/main.py) (necessário ter Python instalado).
